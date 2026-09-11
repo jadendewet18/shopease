@@ -5,9 +5,8 @@ ShopEase is a modern, responsive static e-commerce web application built using H
 ## 🚀 Live Demo
 
 You can view the live deployed site here:
-[https://your-username.github.io/your-repo-name/](https://your-username.github.io/your-repo-name/)
+[https://github.com/jadendewet18/shopease)
 
-*(Replace `your-username` and `your-repo-name` with your actual GitHub username and repository name)*
 
 ## ✨ Features
 
